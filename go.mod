@@ -1,3 +1,3 @@
-module go_util
+module github.com/sunjvhui/go_util
 
 go 1.18
