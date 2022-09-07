@@ -472,3 +472,7 @@ func SortNumString(data []string) {
 		return numA < numB
 	})
 }
+
+func Version() string {
+	return "v1.0.2"
+}
